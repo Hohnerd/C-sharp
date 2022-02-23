@@ -1,0 +1,15 @@
+E:\ИНЖЕНЕР GEEK\05. Знакомство с языками программирования\C#\First_meeting\Project_002\bin\Debug\net6.0\Project_002.exe
+E:\ИНЖЕНЕР GEEK\05. Знакомство с языками программирования\C#\First_meeting\Project_002\bin\Debug\net6.0\Project_002.deps.json
+E:\ИНЖЕНЕР GEEK\05. Знакомство с языками программирования\C#\First_meeting\Project_002\bin\Debug\net6.0\Project_002.runtimeconfig.json
+E:\ИНЖЕНЕР GEEK\05. Знакомство с языками программирования\C#\First_meeting\Project_002\bin\Debug\net6.0\Project_002.dll
+E:\ИНЖЕНЕР GEEK\05. Знакомство с языками программирования\C#\First_meeting\Project_002\bin\Debug\net6.0\Project_002.pdb
+E:\ИНЖЕНЕР GEEK\05. Знакомство с языками программирования\C#\First_meeting\Project_002\obj\Debug\net6.0\Project_002.csproj.AssemblyReference.cache
+E:\ИНЖЕНЕР GEEK\05. Знакомство с языками программирования\C#\First_meeting\Project_002\obj\Debug\net6.0\Project_002.GeneratedMSBuildEditorConfig.editorconfig
+E:\ИНЖЕНЕР GEEK\05. Знакомство с языками программирования\C#\First_meeting\Project_002\obj\Debug\net6.0\Project_002.AssemblyInfoInputs.cache
+E:\ИНЖЕНЕР GEEK\05. Знакомство с языками программирования\C#\First_meeting\Project_002\obj\Debug\net6.0\Project_002.AssemblyInfo.cs
+E:\ИНЖЕНЕР GEEK\05. Знакомство с языками программирования\C#\First_meeting\Project_002\obj\Debug\net6.0\Project_002.csproj.CoreCompileInputs.cache
+E:\ИНЖЕНЕР GEEK\05. Знакомство с языками программирования\C#\First_meeting\Project_002\obj\Debug\net6.0\Project_002.dll
+E:\ИНЖЕНЕР GEEK\05. Знакомство с языками программирования\C#\First_meeting\Project_002\obj\Debug\net6.0\refint\Project_002.dll
+E:\ИНЖЕНЕР GEEK\05. Знакомство с языками программирования\C#\First_meeting\Project_002\obj\Debug\net6.0\Project_002.pdb
+E:\ИНЖЕНЕР GEEK\05. Знакомство с языками программирования\C#\First_meeting\Project_002\obj\Debug\net6.0\Project_002.genruntimeconfig.cache
+E:\ИНЖЕНЕР GEEK\05. Знакомство с языками программирования\C#\First_meeting\Project_002\obj\Debug\net6.0\ref\Project_002.dll
